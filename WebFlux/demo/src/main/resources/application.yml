@@ -1,0 +1,13 @@
+server:
+  port: 9099
+
+
+spring:
+  r2dbc:
+    url: r2dbc:mysql://localhost:3306/r2dbc?characterEncoding=UTF-8
+    username: root
+    password: root
+    name: r2dbc
+    pool:
+      validation-query: SELECT 1
+      enabled: true
