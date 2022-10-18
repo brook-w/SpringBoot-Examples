@@ -11,7 +11,7 @@ import org.springframework.http.server.ServerHttpResponse;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
-import static com.example.apiencryption.commpn.ResponseCode.SECRET_API_ERROR;
+import static com.example.apiencryption.common.ResponseCode.SECRET_API_ERROR;
 
 /**
  * @author null

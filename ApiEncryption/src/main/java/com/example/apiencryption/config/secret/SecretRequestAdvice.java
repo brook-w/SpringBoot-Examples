@@ -23,7 +23,8 @@ import java.lang.reflect.Type;
 import java.nio.charset.Charset;
 import java.util.Objects;
 
-import static com.example.apiencryption.commpn.ResponseCode.SECRET_API_ERROR;
+import static com.example.apiencryption.common.ResponseCode.SECRET_API_ERROR;
+
 
 /**
  * @author null

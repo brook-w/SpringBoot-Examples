@@ -1,4 +1,4 @@
-package com.example.apiencryption.commpn;
+package com.example.apiencryption.common;
 
 /**
  * @author null
