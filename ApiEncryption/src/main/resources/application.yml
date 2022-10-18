@@ -1,0 +1,12 @@
+secret:
+    privateKey:
+        default: 8VBkO5amPcPrXV3m
+        h5: 5DQSHNPgxTAQz9HS
+server:
+    port: 10000
+spring:
+    application:
+        name: ApiEncryption
+    jackson:
+        date-format: yyyy-MM-dd HH:mm:ss
+        time-zone: GMT+8
